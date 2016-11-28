@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+*{
+ margin: 0px;
+ padding: 0px;
+
+}
+body{
+  width: 100%;
+}
+div#BarraSup
+{
+  height: 48px;
+  width: 100%;
+  background-color:#D50000;
+  margin-top: -5px;
+}
+div#menulog{
+margin-top: 4px;
+margin-left: 24px;
+font-size: 25px;
+color:#fff;
+}
+#busquedatxt{
+ margin-bottom: 5px;
+margin-left: 705px;
+font-size: 25px;
+border-left: none;
+border-right: none;
+border-top: none;
+ border-bottom: 2px solid #EF9A9A;
+background-color:#D50000;
+color:#fff;
+}
+#busquedatxt:hover{
+  background-color:#FFCDD2;
+  border:none;
+}
+div#menulog1{
+margin-top: 11px;
+float:right;
+font-size: 25px;
+margin-right:24px;
+color:#fff;
+}
+#tituloPag{
+font-family: 'Roboto', sans-serif;
+margin-left: 65px;
+font-size: 35px;
+color:#fff;
+}
+div#Menu{
+  
+  font-family: 'Roboto', sans-serif;
+	width: 24%;
+	height: 100%;
+	background-color: #D32F2F;
+  float: left;
+}
+#nombreUsuario{
+  margin-top: 10px;
+}
+div.avatar {
+    margin-top: 10px;
+    margin-left: 45px;
+    height: 220px;
+    width: 220px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+div#contenido{
+  width: 72%;
+  margin: 25px;
+float: right;
+}
+
+.contizq
+{
+  font-family: 'Roboto', sans-serif;
+  float: left;
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  height: 300px;
+  margin: 1rem;
+  position: relative;
+  width: 46%;
+}
+#dash{
+  margin: 25px;
+}
+#dash1{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+.contder
+{
+   font-family: 'Roboto', sans-serif;
+  float: right;
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  height: 300px;
+  margin: 1rem;
+  position: relative;
+  width: 46%;
+}
+li#lista{
+  margin-left: 10px;
+  line-height: 45px;
+  border-bottom: 2px solid #EF9A9A;
+  width: 95%;
+  height: 50px;
+  box-shadow: 
+}
+li#lista>a{
+  text-decoration: none;
+  color: #fff;
+}
+li#lista:hover{
+  border-bottom: 3px solid #EF9A9A;
+  color: #000;
+  background-color:#B71C1C;
+}
+ul#menu_principal
+{
+ height:550px;
+ width: 100%;
+ margin-top: 50px;
+ color: #fff;
+ background-color:#D50000;
+}
+
+#nombreUsuario{
+  line-height: 25px;
+  text-align: center;
+  color: #fff;
+  font-size: 15px;
+}
+.carta {
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  height: 300px;
+  margin: 1rem;
+  position: relative;
+  width: 300px;
+}
+.carta-1 {
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+.cartaImagen {
+  background-color: rgb(213,0,0);
+  background-repeat: repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+  background-origin: padding-box;
+  background-attachment: scroll;
+  box-sizing: border-box; }
