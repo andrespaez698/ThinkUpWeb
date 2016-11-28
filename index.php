@@ -4,13 +4,12 @@
  <meta charset="UTF-8" />
  <link rel="stylesheet"  href="css/estilos.css" />
  <link rel="stylesheet" type="text/css" href="fonts/style.css">
- <title>THINKUP</title>
+ <title>THIffffNKUP</title>
 </head>
 <body>
 <header>
 <div id="BarraSup">
       <div id="menulog"><span class="icon-menu"></span><label id="tituloPag">Perfil</label><input id="busquedatxt" type="text" name="busqueda"><div id="menulog1"><span class="icon-dots-three-vertical"></span></div><div id="menulog1"><span class="icon-magnifying-glass"></span></div></div>
-      
 </div>
  </header>
  
